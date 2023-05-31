@@ -1,0 +1,21 @@
+h1 {
+    color: green;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: beige;
+}
+
+button {
+    background-color: blueviolet;
+    box-shadow: left 10px;
+    color: aliceblue;
+    font-size: xx-large;
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+    position: absolute;
+    left: 43%;
+}
